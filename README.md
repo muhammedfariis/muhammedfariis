@@ -59,11 +59,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedfariis&theme=tokyonight&no-frame=true&column=7" />
-</p>
 
 ---
 
@@ -78,27 +73,37 @@
 
 <div align="center">
   <a href="https://leetcode.com/faris11">
-    <img src="https://leetcode-stats-api.herokuapp.com/faris11" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile_Stats-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedfariis&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
+      <td align="center" width="400">
+        <p align="center"><b>Most Used Languages</b></p>
+        <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Solved Count" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" alt="Focus" />
+      <td align="center" width="400">
+        <p align="center"><b>LeetCode Metrics</b></p>
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Ffaris11&color=orange" />
+        <br/>
+        <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Ffaris11&color=blue" />
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+<h2 align="center"> 📊 GitHub Stats </h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedfariis&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedfariis&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="300" />
+</div>
 ---
 
 ## 📫 Connect with me
