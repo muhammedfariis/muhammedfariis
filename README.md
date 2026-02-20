@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Muhammed%20Faris%20🚀&fontSize=50&fontColor=fff&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Muhammed%20Faris%20&fontSize=50&fontColor=fff&animation=twinkling"/>
 </p>
 
 <p align="center">
@@ -62,10 +62,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammedfariis/muhammedfariis/output/github-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
