@@ -1,10 +1,6 @@
-### 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/faris11?theme=unicorn&font=Karma)
-
 
 <!-- HEADER WAVE ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20[YourName]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20MUHAMMED FARIS%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=30"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -59,7 +55,7 @@ Hobbies  : Coding · Music · Gaming · Exploring Tech
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedfariis&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
 </div>
 
 ---
@@ -76,6 +72,10 @@ Hobbies  : Coding · Music · Gaming · Exploring Tech
 
 ---
 
+### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/faris11?theme=unicorn&font=Karma)
+
 
 
 ---
@@ -83,13 +83,13 @@ Hobbies  : Coding · Music · Gaming · Exploring Tech
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/muhammed-faris-431270375/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:muhammedfariis101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/muhammedfariis">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
