@@ -1,103 +1,118 @@
 
-<!-- HEADER WAVE ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20MUHAMMEDFARIS%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+Developer+%F0%9F%9A%80;Full+Stack+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A;Open+To+Work+%F0%9F%91%80" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Muhammed%20Faris%20🚀&fontSize=50&fontColor=fff&animation=twinkling"/>
 </p>
 
----
-
-## 🙋‍♂️ About Me
-```yaml
-Name     : Muhammed Faris
-Role     : Full Stack Developer
-Location : Kerala , india
-Education: Mern Stack Development
-Status   : Open to Work ✅
-Hobbies  : Coding · Music · Gaming · Exploring Tech
-```
-
----
-
-## 🛠️ Tech Stack
-
-<!-- SKILL BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedfariis&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
-  </picture>
-</div>
-
----
-
-### 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/faris11?theme=unicorn&font=Karma)
-
-
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-faris-431270375/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:muhammedfariis101@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/muhammedfariis">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Expert;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+<div align="center">
+  <img src="https://img.shields.io/badge/-Open%20To%20Work-2ea44f?style=for-the-badge" alt="Open to Work" />
+</div>
+
+---
+
+## 💫 About Me
+<p align="left">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedfariis&repo=muhammedfariis&theme=tokyonight" align="right" width="350" />
+ 
+- 🔭 I’m currently working on **Advanced MERN Projects**
+- 🌱 I’m currently learning **Next.js & TypeScript**
+- 💬 Ask me about **React, Node, or UI/UX**
+- 📫 How to reach me **muhammedfariis101@gmail.com**
+- ⚡ Fun fact **I love exploring the intersection of Design & Code**
 </p>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+---
+
+## 🛠️ My Tech Toolbox
+
+### 💻 Frontend & Styling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase" />
+</p>
+
+### 🔧 Tools & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+</p>
+
+---
+
+## 📊 Activity & Performance
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammedfariis&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedfariis&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedfariis&theme=tokyonight&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedfariis&theme=tokyonight&no-frame=true&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/muhammedfariis/muhammedfariis/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<h2 align="center"> 🧠 Coding Proficiency </h2>
+
+<div align="center">
+  <a href="https://leetcode.com/faris11">
+    <img src="https://leetcard.jacoblin.cool/faris11?theme=unicorn&font=Karma&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedfariis&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Ffaris11&color=FFA116&logo=leetcode&logoColor=yellow" alt="Solved Count" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Difficulty-Medium_Focus-orange?style=for-the-badge&logo=codeforces" alt="Focus" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📫 Connect with me
+<p align="center">
+<a href="https://linkedin.com/in/muhammed-faris-431270375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed faris" height="30" width="40" /></a>
+<a href="https://github.com/muhammedfariis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muhammedfariis" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammedfariis&label=Profile+Views&color=blue&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer"/>
+</p>
