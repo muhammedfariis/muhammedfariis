@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Muhammed%20Faris%20🚀&fontSize=50&fontColor=fff&animation=twinkling"/>
 </p>
@@ -18,7 +16,7 @@
 
 ## 💫 About Me
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedfariis&repo=muhammedfariis&theme=tokyonight" align="right" width="350" />
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=muhammedfariis&repo=muhammedfariis&theme=tokyonight" align="right" width="350" />
  
 - 🔭 I’m currently working on **Advanced MERN Projects**
 - 🌱 I’m currently learning **Next.js & TypeScript**
@@ -51,7 +49,7 @@
 ## 📊 Activity & Performance
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammedfariis&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammedfariis&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedfariis&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
@@ -71,7 +69,7 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhammedfariis/muhammedfariis/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/muhammedfariis/muhammedfariis/output/github-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -80,7 +78,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/faris11">
-    <img src="https://leetcard.jacoblin.cool/faris11?theme=unicorn&font=Karma&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-api.herokuapp.com/faris11" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -90,12 +88,12 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedfariis&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedfariis&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Langs" />
       </td>
       <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Ffaris11&color=FFA116&logo=leetcode&logoColor=yellow" alt="Solved Count" />
+        <img src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Solved Count" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/Difficulty-Medium_Focus-orange?style=for-the-badge&logo=codeforces" alt="Focus" />
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" alt="Focus" />
       </td>
     </tr>
   </table>
@@ -105,8 +103,8 @@
 
 ## 📫 Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/muhammed-faris-431270375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed faris" height="30" width="40" /></a>
-<a href="https://github.com/muhammedfariis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muhammedfariis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammed-faris-431270375" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammed faris" /></a>
+<a href="https://github.com/muhammedfariis" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="muhammedfariis" /></a>
 </p>
 
 <p align="center">
