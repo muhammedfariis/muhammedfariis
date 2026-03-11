@@ -43,7 +43,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,netlify" />
 </p>
-### learing..
+
+Currently Learning..
 <p align= "left">
   <img src="https://skillicons.dev/icons?i=nextjs,ts" />
 </p>
