@@ -44,10 +44,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,netlify" />
 </p>
 
-Currently Learning..
+Currently Learning.....!
 <p align= "left">
   <img src="https://skillicons.dev/icons?i=nextjs,ts" />
 </p>
+
 ---
 
 ## 📊 Activity & Performance
