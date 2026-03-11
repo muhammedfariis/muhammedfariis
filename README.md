@@ -31,19 +31,22 @@
 
 ### 💻 Frontend & Styling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
 </p>
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
 </p>
 
 ### 🔧 Tools & Version Control
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,netlify" />
 </p>
-
+### learing..
+<p align= "left">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts" />
+</p>
 ---
 
 ## 📊 Activity & Performance
